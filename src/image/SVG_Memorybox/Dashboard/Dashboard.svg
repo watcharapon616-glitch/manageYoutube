@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30">
+  <g id="Layer_2" data-name="Layer 2" opacity="0.7">
+    <g id="invisible_box" data-name="invisible box">
+      <rect id="Rectangle_262" data-name="Rectangle 262" width="30" height="30" fill="none"/>
+    </g>
+    <g id="Layer_7" data-name="Layer 7" transform="translate(1.25 3.75)">
+      <g id="Group_325" data-name="Group 325">
+        <path id="Path_327" data-name="Path 327" d="M28.25,38h-25a1.25,1.25,0,0,0,0,2.5h25a1.25,1.25,0,0,0,0-2.5Z" transform="translate(-2 -18)"/>
+        <path id="Path_328" data-name="Path 328" d="M27.25,26.5h7.5A1.25,1.25,0,0,0,36,25.25v-10A1.25,1.25,0,0,0,34.75,14h-7.5A1.25,1.25,0,0,0,26,15.25v10A1.25,1.25,0,0,0,27.25,26.5Zm1.25-10h5V24h-5Z" transform="translate(-11 -9)"/>
+        <path id="Path_329" data-name="Path 329" d="M7.25,23.5h7.5A1.25,1.25,0,0,0,16,22.25v-15A1.25,1.25,0,0,0,14.75,6H7.25A1.25,1.25,0,0,0,6,7.25v15A1.25,1.25,0,0,0,7.25,23.5ZM8.5,8.5h5V21h-5Z" transform="translate(-3.5 -6)"/>
+      </g>
+    </g>
+  </g>
+</svg>

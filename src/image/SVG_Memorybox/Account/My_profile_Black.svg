@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+  <g id="Layer_2" data-name="Layer 2" transform="translate(0 -0.305)">
+    <g id="invisible_box" data-name="invisible box">
+      <rect id="Rectangle_302" data-name="Rectangle 302" width="16" height="16" transform="translate(0 0.305)" fill="none"/>
+    </g>
+    <g id="icons_Q2" data-name="icons Q2" transform="translate(0.679 0.679)">
+      <g id="Group_511" data-name="Group 511">
+        <path id="Path_362" data-name="Path 362" d="M18.717,10a2.717,2.717,0,1,0,2.717,2.717A2.717,2.717,0,0,0,18.717,10Zm0,4.076a1.359,1.359,0,1,1,1.359-1.359A1.359,1.359,0,0,1,18.717,14.076Z" transform="translate(-11.244 -7.282)" fill="#4d4d4d"/>
+        <path id="Path_363" data-name="Path 363" d="M9.473,2a7.439,7.439,0,1,0,5.294,2.179A7.473,7.473,0,0,0,9.473,2ZM5.329,13.957A8.968,8.968,0,0,1,9.473,12.87a8.968,8.968,0,0,1,4.144,1.087,6.08,6.08,0,0,1-8.288,0ZM14.534,12.9h0a10.428,10.428,0,0,0-5.061-1.393A10.428,10.428,0,0,0,4.412,12.9h0A6.012,6.012,0,0,1,3.359,9.473a6.114,6.114,0,1,1,12.229,0A6.012,6.012,0,0,1,14.534,12.9Z" transform="translate(-2 -2)" fill="#4d4d4d"/>
+      </g>
+    </g>
+  </g>
+</svg>

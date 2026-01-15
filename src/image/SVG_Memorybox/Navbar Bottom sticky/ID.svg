@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="21" height="21" viewBox="0 0 21 21">
+  <g id="Layer_2" data-name="Layer 2" >
+    <g id="icons_Q2" data-name="icons Q2" transform="translate(1.75 1.313)">
+      <g id="Group_165" data-name="Group 165">
+        <path id="Path_237" data-name="Path 237" d="M17.063,16.125A3.063,3.063,0,1,0,14,13.063a3.062,3.062,0,0,0,3.063,3.063Zm0-4.375a1.313,1.313,0,1,1-1.313,1.313,1.269,1.269,0,0,1,1.313-1.313Z" transform="translate(-9.625 -6.938)"/>
+        <path id="Path_238" data-name="Path 238" d="M10.875,31.248H18.75a.875.875,0,0,0,.875-.875V27.486l-.394-.262a8.575,8.575,0,0,0-8.838,0L10,27.486v2.888A.875.875,0,0,0,10.875,31.248Zm.875-2.756a6.694,6.694,0,0,1,6.125,0V29.5H11.75Z" transform="translate(-7.375 -15.936)"/>
+        <path id="Path_239" data-name="Path 239" d="M18,3H4.875A.875.875,0,0,0,4,3.875V20.5a.875.875,0,0,0,.875.875H18a.875.875,0,0,0,.875-.875V3.875A.875.875,0,0,0,18,3Zm-.875,16.625H5.75V4.75H17.125Z" transform="translate(-4 -3)"/>
+        <path id="Path_240" data-name="Path 240" d="M40.875,19H40v4.375h.875a.875.875,0,0,0,.875-.875V19.875A.875.875,0,0,0,40.875,19Z" transform="translate(-24.25 -12)"/>
+        <path id="Path_241" data-name="Path 241" d="M40.875,31H40v4.375h.875a.875.875,0,0,0,.875-.875V31.875A.875.875,0,0,0,40.875,31Z" transform="translate(-24.25 -18.75)"/>
+        <path id="Path_242" data-name="Path 242" d="M40.875,7H40v4.375h.875a.875.875,0,0,0,.875-.875V7.875A.875.875,0,0,0,40.875,7Z" transform="translate(-24.25 -5.25)"/>
+      </g>
+    </g>
+  </g>
+</svg>

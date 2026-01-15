@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="25" height="26" viewBox="0 0 25 26">
+  <g id="QR_code" data-name="QR code" transform="translate(-0.478 -0.492)">
+    <g id="invisible_box" data-name="invisible box" transform="translate(0 0)">
+      <rect id="Rectangle_372" data-name="Rectangle 372" width="25" height="26" transform="translate(0.478 0.492)" fill="none"/>
+    </g>
+    <g id="Health_Icons" data-name="Health Icons" transform="translate(1.569 2.246)">
+      <g id="Group_698" data-name="Group 698">
+        <path id="Path_20315" data-name="Path 20315" d="M4,13.318h9.862V4H4ZM6.192,6.071H11.67v5.177H6.192Z" transform="translate(-4 -4)" fill="#4a4b4f"/>
+        <path id="Path_20316" data-name="Path 20316" d="M4,35.318h9.862V26H4Zm2.192-7.247H11.67v5.177H6.192Z" transform="translate(-4 -14.612)" fill="#4a4b4f"/>
+        <path id="Path_20317" data-name="Path 20317" d="M26,4v9.318h9.862V4Zm7.67,7.247H28.192V6.071H33.67Z" transform="translate(-13.946 -4)" fill="#4a4b4f"/>
+        <rect id="Rectangle_373" data-name="Rectangle 373" width="2" height="2" transform="translate(3.91 3.246)" fill="#4a4b4f"/>
+        <path id="Path_20318" data-name="Path 20318" d="M28.192,33H26v5.694h9.862V36.624h-7.67Z" transform="translate(-13.946 -17.988)" fill="#4a4b4f"/>
+        <path id="Path_20319" data-name="Path 20319" d="M36.835,29.624H33v2.071h6.027V26H36.835Z" transform="translate(-17.111 -14.612)" fill="#4a4b4f"/>
+        <rect id="Rectangle_374" data-name="Rectangle 374" width="7" height="2" transform="translate(11.91 11.246)" fill="#4a4b4f"/>
+      </g>
+    </g>
+  </g>
+</svg>

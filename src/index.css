@@ -1,0 +1,38 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import url('https://fonts.googleapis.com/css2?family=Prompt:wght@300&display=swap');
+
+:root {
+  --main-bg-color: #1572F5;
+  --main-bg-color2:#0456ca;
+}
+body {
+  margin: 0;
+  font-family: 'Kanit', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Kanit',
+    monospace;
+}
+@layer components {
+  .btn-outline {
+    @apply border py-4 border-[color:var(--main-bg-color)] text-base rounded-full hover:bg-[color:var(--main-bg-color)] hover:text-white active:bg-[color:var(--main-bg-color2)] active:text-white;
+  }
+  .btn-save {
+    @apply py-1.5 bg-[color:var(--main-bg-color)]  text-white text-base rounded-md hover:bg-[color:var(--main-bg-color2)] hover:text-white active:bg-[color:var(--main-bg-color2)] active:text-white;
+  }
+  .btn-login {
+    @apply py-2 bg-[color:var(--main-bg-color)]  text-white rounded-md hover:bg-[color:var(--main-bg-color2)] hover:text-white active:bg-[color:var(--main-bg-color2)] active:text-white;
+  }
+  .btn-fill {
+    @apply p-4 rounded-full w-full bg-[color:var(--main-bg-color)] text-white text-base hover:bg-[color:var(--main-bg-color2)] active:bg-[color:var(--main-bg-color2)];
+  }
+  .bg-fill {
+    @apply bg-[color:white];
+  }
+}
+
