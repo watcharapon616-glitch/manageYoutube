@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/manageYoutube/static/css/main.6f2c8d36.css",
+    "main.css": "/manageYoutube/static/css/main.7382924e.css",
     "main.js": "/manageYoutube/static/js/main.59062d3a.js",
     "static/js/27.e69ad212.chunk.js": "/manageYoutube/static/js/27.e69ad212.chunk.js",
     "static/media/dxicons.ttf": "/manageYoutube/static/media/dxicons.4d3cea0a08c2038308fc.ttf",
@@ -10,7 +10,7 @@
     "index.html": "/manageYoutube/index.html"
   },
   "entrypoints": [
-    "static/css/main.6f2c8d36.css",
+    "static/css/main.7382924e.css",
     "static/js/main.59062d3a.js"
   ]
 }
