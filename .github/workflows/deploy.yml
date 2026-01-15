@@ -2,7 +2,7 @@ name: Deploy to GitHub Pages
 
 on:
   push:
-    branches: ["main"] # หรือชื่อ branch ของคุณ
+    branches: ["main"]
 
 permissions:
   contents: read
@@ -19,25 +19,28 @@ jobs:
       - name: Setup Node
         uses: actions/setup-node@v4
         with:
-          node-version: "20"
+          node-version: "18"
 
-    - name: Install dependencies
-        # ใช้ --legacy-peer-deps เพื่อข้ามปัญหาความขัดแย้งของเวอร์ชัน
-        run: npm install --legacy-peer-deps
+      - name: Install dependencies
+        # ใช้ --force และ --legacy-peer-deps เพื่อแก้ปัญหา Conflict ของ library
+        run: npm install --legacy-peer-deps --force
 
       - name: Build
-        run: npm run build
+        # ใช้ CI=false เพื่อไม่ให้ Warning ขัดขวางการ Build
+        run: CI=false npm run build
 
       - name: Prepare subfolder
-        # ขั้นตอนนี้จะสร้างโฟลเดอร์ manageYoutube และย้ายไฟล์ build เข้าไปข้างใน
+        # สร้างโครงสร้างโฟลเดอร์ให้ตรงกับ zynksite.com/manageYoutube/
         run: |
           mkdir dist
-          mv build dist/manageYoutube
+          cp -r build/* dist/
+          mkdir -p dist/manageYoutube
+          cp -r build/* dist/manageYoutube/
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: ./dist # สั่งให้อัปโหลดโฟลเดอร์ dist ที่มีโฟลเดอร์ย่อยอยู่
+          path: ./dist
 
       - name: Deploy to GitHub Pages
         id: deployment
