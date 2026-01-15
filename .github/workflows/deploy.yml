@@ -21,8 +21,9 @@ jobs:
         with:
           node-version: "20"
 
-      - name: Install dependencies
-        run: npm install
+    - name: Install dependencies
+        # ใช้ --legacy-peer-deps เพื่อข้ามปัญหาความขัดแย้งของเวอร์ชัน
+        run: npm install --legacy-peer-deps
 
       - name: Build
         run: npm run build
